@@ -30,5 +30,6 @@ a:visited {
   text-decoration: underline;
 }
 a:hover{color: antiquewhite;
-text-decoration: ;}
+text-decoration: none; }
+
 a:hover{color: blue;background-color: azure;}
