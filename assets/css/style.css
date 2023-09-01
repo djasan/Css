@@ -14,6 +14,21 @@ p {
   color: rgb(32, 223, 105);
 }
 
-.titre{color: rgb(168, 71, 71);}
+.titre {
+  color: rgb(168, 71, 71);
+}
 
-.titre2{border-bottom: 10px dashed rgb(25, 27, 24);}
+.titre2 {
+  border-bottom: 10px dashed rgb(25, 27, 24);
+}
+a {
+  color: aqua;
+  text-decoration: none;
+}
+a:visited {
+  color: red;
+  text-decoration: underline;
+}
+a:hover{color: antiquewhite;
+text-decoration: ;}
+a:hover{color: blue;background-color: azure;}
