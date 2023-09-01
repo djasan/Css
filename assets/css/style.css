@@ -24,6 +24,8 @@ img {
   width: 10%;
   display: inline;
 }
+
+header img{display: inline-block;}
 h1,
 h2 {
   color: blueviolet;
